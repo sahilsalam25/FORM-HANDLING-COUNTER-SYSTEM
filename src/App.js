@@ -1,24 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import Counter from './Components/Counter';
+import UserDataForm from './Components/UserDataForm';
+import RichTextEditor from './Components/RichTextEditor';
+// import SignIn from './Components/SignIn';
+// import SignUp from './Components/SignUp';
+// import UserProfileChart from './Components/UserProfileChart';
+// import AuthProvider from './Components/AuthProvider';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Counter />
+      <UserDataForm />
+      <br></br>
+      <RichTextEditor />
+      <br></br>
+      {/* <SignIn />
+      <br></br>
+      <SignUp />
+      <br></br> */}
+      {/* <AuthProvider /> */}
+
+    </>
   );
 }
 
