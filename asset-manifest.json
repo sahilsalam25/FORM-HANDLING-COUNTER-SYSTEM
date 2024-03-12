@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sahil-react-upliance-project/static/css/main.3d48c9ef.css",
+    "main.js": "/sahil-react-upliance-project/static/js/main.7c4c177a.js",
+    "static/js/453.c5f88496.chunk.js": "/sahil-react-upliance-project/static/js/453.c5f88496.chunk.js",
+    "index.html": "/sahil-react-upliance-project/index.html",
+    "main.3d48c9ef.css.map": "/sahil-react-upliance-project/static/css/main.3d48c9ef.css.map",
+    "main.7c4c177a.js.map": "/sahil-react-upliance-project/static/js/main.7c4c177a.js.map",
+    "453.c5f88496.chunk.js.map": "/sahil-react-upliance-project/static/js/453.c5f88496.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d48c9ef.css",
+    "static/js/main.7c4c177a.js"
+  ]
+}
